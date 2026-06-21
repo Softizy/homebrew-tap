@@ -12,7 +12,7 @@ cask "tamag0" do
   end
 
   name "Tamag0"
-  desc "AI companion app for agent-memory — desktop client for tamag0"
+  desc "Desktop App for tamag0.ai"
   homepage "https://tamag0.ai"
 
   app "Tamag0.app"

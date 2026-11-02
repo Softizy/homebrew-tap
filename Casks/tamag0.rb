@@ -1,14 +1,14 @@
 cask "tamag0" do
-  version "1.67.0"
+  version "1.68.1"
 
   on_arm do
     url "https://github.com/Softizy/tamag0-releases/releases/download/v#{version}/Tamag0-arm64.dmg"
-    sha256 "51fee7b89b495d9df01a84811ffb8221d39a4c2f651c2932f5ec65da2b407cb4"
+    sha256 "5d210be5d2bb5ef1147569343a9f96d5a7d1c83d30b9d5dcd6d294bd24464345"
   end
 
   on_intel do
     url "https://github.com/Softizy/tamag0-releases/releases/download/v#{version}/Tamag0-x64.dmg"
-    sha256 "e859259c477bb08fe1317118cdb144a0faee6a7a18c471784e7345ef8ef2830d"
+    sha256 "c5f8cb2a5c327bf932fdb66b0bfa0f24b561eae821c62b34146da8b0ae7f82cc"
   end
 
   name "Tamag0"
